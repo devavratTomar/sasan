@@ -1,0 +1,2 @@
+from .cyclegan_generator import CycleGANGenerator
+from .ugatit_generator import UGATITResnetGenerator

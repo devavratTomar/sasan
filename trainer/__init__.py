@@ -1,0 +1,3 @@
+from .trainer_segmentation import SegmentationTrainer
+from .trainer_attention import TrainerAttention
+from .trainer_ms_multi_dis import TrainerCycleGANMSMultiDSeg
